@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Sansita+Swashed:wght@300&display=swap');
+body{
+    background-image: url("image/chronicles.jpg");
+    font-size: 30px;
+    background-size: 100%;
+}
+
+
+/* h1{
+    color: rgb(255, 93, 93);
+    font-size: 60px;
+    text-align: center;
+} */
+/* *{
+    background-color: rgb(20, 220, 193);
+    font-size: 16px;
+} */
+.fontcolor{
+    color: white;
+    font-family: 'Sansita Swashed', cursive;
+}
+.large{
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif
+}
+#mainheader{
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    font-family: 'Oswald', sans-serif
+}
+#mainphoto{
+    width: 500px;
+    border: solid lawngreen;
+    padding: 30px;
+    margin: 40px;
+    background-color: gray;
+}
+#tabs{
+    text-align: center;
+    color: black;
+}
+#sideheader{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'Oswald', sans-serif
+}
+#photo{
+    width: 500px;
+    border: solid lawngreen;
+    padding: 30px;
+    margin: 40px;
+    background-color: grey;
+}
+#photo1{
+    width: 50%;
+    border: solid lawngreen;
+    padding: 30px;
+    margin: 40px;
+    background-color: grey;
+}
+#tabsborder{
+    background-color: gray;
+}
+#photo2{
+    width: 500px;
+    border: solid lawngreen;
+    padding: 30px;
+    margin: 40px;
+    background-color: grey;
+}
+#sideheader2{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'Oswald', sans-serif
+}
+#photo3{
+    width: 20%;
+    border: solid lawngreen;
+    padding: 30px;
+    margin: 40px;
+    background-color: grey;
+}
